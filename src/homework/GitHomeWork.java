@@ -15,6 +15,9 @@ public class GitHomeWork {
 }
 	public static void subtract (int a, int b) {
 		System.out.println(a-b);
+		int age=32;
+		String name="zedu";
+			
 }
 public static void divide  (int a, int b) {
 		System.out.println(a/b);
